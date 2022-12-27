@@ -1,0 +1,53 @@
+/* .rtl{
+    direction: rtl!important;
+}
+.ltr{
+    direction: ltr!important;
+}
+body{
+    height: 100vh; */
+    /* overflow: hidden; */
+/* }
+.calculate-input{
+    background: lightgreen;
+    width: 100%;
+    padding: 2.5rem;
+    font-size: 1.8rem;
+}
+.num-container button{
+    font-size: 1.8rem;
+} */
+.rtl{
+    direction: rtl!important;
+}
+.ltr{
+    direction: ltr!important;
+}
+body{
+    height: 100vh;
+    /* overflow: hidden; */
+}
+.calculate-input{
+    background: rgba(255, 255, 255, 0.301);
+    width: 100%;
+    padding: 2rem;
+    font-size: 1.8rem;
+    border: rgb(255, 255, 255) solid 0.5px;
+    border-radius: 12px;
+    box-shadow: 5px 5px 3px  rgb(61, 61, 61) -2px -2px -2px;
+    
+  border: 1px solid;
+  padding: 20px;
+  box-shadow: 3px 5px;
+
+}
+.num-container button{
+    font-size: 1.8rem;
+}
+.button{
+    border-radius: 12px;
+}
+.on{
+    background-color: rgb(255, 255, 255, 0.301);
+    color: black;
+}
